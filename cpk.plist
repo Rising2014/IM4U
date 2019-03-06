@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>APP安装完成后请在设置-通用-设备管理中对证书添加信任</string>
+				<string>APP安装完成后请在设置-通用-描述文件/设备管理中对Valeks,ooo证书添加信任</string>
 			</dict>
 		</dict>
 	</array>
