@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.0355go.com/Files/cosplay-pk.ipa</string>
+					<string>http://www.tv6vip.com/Files/cosplay-pk.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.0355go.com/Images/CPK_Logo_IOS_100.png</string>
+					<string>http://www.tv6vip.com/Images/CPK_Logo_IOS_100.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.0355go.com/Images/CPK_Logo_IOS_100.png</string>
+					<string>http://www.tv6vip.com/Images/CPK_Logo_IOS_100.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.cosplay-pk.cosplay_pk</string>
 				<key>bundle-version</key>
-				<string>1.1.0</string>
+				<string>1.2.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
